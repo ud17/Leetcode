@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class Solution {
     public int romanToInt(String s) {
         int num = 0;
