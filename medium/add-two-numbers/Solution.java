@@ -1,5 +1,6 @@
 // Runtime: 3 ms, faster than 72.11% of Java online submissions for Add Two Numbers.
 // Memory Usage: 48.6 MB, less than 7.18% of Java online submissions for Add Two Numbers.
+import java.util.*;
 
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
