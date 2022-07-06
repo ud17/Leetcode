@@ -1,3 +1,3 @@
 # LeetCode Problems
 
-Profile Link - [https://leetcode.com/ud17/]
+Profile - https://leetcode.com/ud17/
