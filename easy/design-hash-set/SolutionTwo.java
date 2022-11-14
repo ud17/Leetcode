@@ -3,7 +3,7 @@ public class MyHashSet {
     int[] arr = new int[1000001];
    
     public MyHashSet() {
-         Arrays.fill(arr,-1);
+        Arrays.fill(arr,-1);
     }
     
     public void add(int key) {
